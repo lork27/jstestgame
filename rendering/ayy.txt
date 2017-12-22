@@ -2,3 +2,6 @@ https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_J
 
 
 https://developer.mozilla.org/en-US/docs/Games/Tutorials/2D_Breakout_game_pure_JavaScript
+
+
+https://developer.mozilla.org/en-US/docs/Learn/JavaScript/Objects/Object_building_practice
